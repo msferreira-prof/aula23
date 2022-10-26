@@ -65,6 +65,7 @@
                     <a href="../escola.php" class="nav-link">Início</a>
                     <a href="#" class="nav-link">Cadastrar</a>
                     <a href="listarInstrutores.php" class="nav-link">Listar</a>
+                    <a href="paginaemconstrucao.php" class="nav-link">Excluir</a>
                 </div>
             </div>
         </nav>
