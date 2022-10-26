@@ -1,0 +1,11 @@
+.gitcor {
+    display: flex;
+    flex: content;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(191, 158, 221);
+    color: brown;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
