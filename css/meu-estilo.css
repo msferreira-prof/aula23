@@ -63,11 +63,11 @@
 }
 
 .my-border-bottom {
-    border-bottom: 1px solid rgb(231, 10, 76);
+    border-bottom: 1px solid rgb(231, 10, 78);
 }
 
 .my-table-border-bottom tr {
-    border-bottom: 1px solid rgb(214, 193,226);
+    border-bottom: 1px solid rgb(201, 226, 193);
 }
 
 /* define uma cor de borda e uma sombra para o card ativo pelo mouse */
