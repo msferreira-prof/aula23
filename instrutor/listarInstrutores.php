@@ -13,7 +13,7 @@
         echo "Falha na conexao com o BD: $msgBD";
         exit();
     }
-
+<comment>teste </comment>
     // sucesso na conexao
     // insert into tiposatividade (descricao) values ('Programador Web');
     $comandoSQL = "select id, rg, nome, dataNascimento, ddd, telefone, titulos.descricao as titularidade
